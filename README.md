@@ -16,3 +16,7 @@ The size of matrix is depend on the number of things we would like to predict.
 - Sensitivity is percentage of actual positives correctly predicted.
 - On the other hand, specificity is percentage of actual negatives correctly predicted.
 
+### Bias and Variance
+
+
+### ROC and AUC
