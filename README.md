@@ -26,3 +26,7 @@ The size of matrix is depend on the number of things we would like to predict.
 Surprise = log(1 / Probability)
 
 <img width="449" alt="Entropy formula" src="https://user-images.githubusercontent.com/10975154/219049595-bd27ea09-a67f-4e0d-8698-6ffeb69c44c9.png">
+
+### Mutual Information
+Mutual information (MI) values for other variables to decide which ones are the most useful
+
